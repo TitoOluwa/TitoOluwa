@@ -1,5 +1,4 @@
 # Hi there, I'm TitoOluwa 👋
-
 ### Aspiring Data Analyst | Data Science Enthusiast
 
 I'm building practical skills in data analysis and data science by working on real-world datasets and end-to-end projects.
